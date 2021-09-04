@@ -2,26 +2,31 @@
     {
         "cat": "learn",
         "name": "Learning",
-        "num": 3
+        "num": 3,
+        "positions": [45, 51, 37]
     },
     {
         "cat": "man",
         "name": "Manchester",
-        "num": 3
+        "num": 3,
+        "positions": [50, 68, 78]
     },
     {
         "cat": "comp",
         "name": "Computer",
-        "num": 4
+        "num": 4,
+        "positions": [49, 37, 54, 44]
     },
     {
         "cat": "nature",
         "name": "Nature",
-        "num": 4
+        "num": 4,
+        "positions": [54, 47, 60, 41]
     },
     {
         "cat": "arc",
         "name": "Architecture",
-        "num": 4
+        "num": 4,
+        "positions": [58, 32, 50, 52]
     }
 ]
