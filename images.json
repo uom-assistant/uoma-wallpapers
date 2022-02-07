@@ -28,5 +28,19 @@
         "name": "Architecture",
         "num": 4,
         "positions": [58, 32, 50, 52]
+    },
+    {
+        "cat": "cny2022",
+        "name": "Special",
+        "subtitle": "Chinese New Year",
+        "num": 5,
+        "positions": [50, 46, 80, 57, 28]
+    },
+    {
+        "cat": "beijing2022",
+        "name": "Special",
+        "subtitle": "Beijing 2022",
+        "num": 2,
+        "positions": [37, 43]
     }
 ]
